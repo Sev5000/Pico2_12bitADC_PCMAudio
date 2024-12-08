@@ -5,6 +5,7 @@ Specifically designed to still be usefull without smds (no head switch input the
 <img src="https://github.com/Sev5000/Pico2_12bitADC_PCMAudio/blob/main/Pico2%20Adapter%20PCB%20Render.png?raw=true" alt="">
 
 Features:
+- The Pico 2 can be socketed with and without a DVI sock
 - Mounting holes for the AD9226 pcb, PCM1802 and a socketed Pi Pico 2 with DVI sock (original and adafruit verfied)
 - Audio input with either chinch or 3.5mm jack
 - Jumper to choose between head switch input and clipping bit of the AD9226
