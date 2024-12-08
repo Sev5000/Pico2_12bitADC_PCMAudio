@@ -1,5 +1,5 @@
 # Pico2_12bitADC_PCMAudio
-PCB to neatly package a Raspberry Pi Pico 2, AD9226 ADC and PCM1802 audio board for capture with HSDAOH.
+PCB to neatly package a Raspberry Pi Pico 2, AD9226 ADC and PCM1802 audio board for capture with hsdaoh.
 Specifically designed to still be usefull without smds (no head switch input then).
 
 <img src="https://github.com/Sev5000/Pico2_12bitADC_PCMAudio/blob/main/Pico2%20Adapter%20PCB%20Render.png?raw=true" alt="">
