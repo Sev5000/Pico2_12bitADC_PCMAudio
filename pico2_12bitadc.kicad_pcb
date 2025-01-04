@@ -11027,6 +11027,18 @@
 		(layer "Edge.Cuts")
 		(uuid "fcc31a73-2de6-49a9-9cb7-392df802947e")
 	)
+	(gr_text "Pico2-AD9226-PCM1802 PCB\n         by Sev5000"
+		(at 135.89 111.76 90)
+		(layer "F.SilkS")
+		(uuid "f9d054f1-c311-49ca-adbf-cdb301af17d2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
 	(segment
 		(start 125.378 104.292)
 		(end 125.549776 104.120224)
