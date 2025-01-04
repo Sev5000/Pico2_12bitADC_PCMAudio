@@ -2263,7 +2263,7 @@
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "Z1"
-			(at 0 1.397 0)
+			(at 3.047 0 0)
 			(layer "F.SilkS")
 			(uuid "2f18dd70-77bd-45b9-a311-4b8f8c738e02")
 			(effects
@@ -3652,7 +3652,7 @@
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D1"
-			(at 0.001 -1.524 90)
+			(at -0.126 -1.397 90)
 			(layer "F.SilkS")
 			(uuid "48848e31-3373-4578-a729-b28f2eb8e7cf")
 			(effects
@@ -5068,7 +5068,7 @@
 		(at 120.628 75.438)
 		(descr "Through hole straight pin header, 2x20, 2.54mm pitch, double rows")
 		(tags "Through hole pin header THT 2x20 2.54mm double row")
-		(property "Reference" "U1"
+		(property "Reference" "Pico 2"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(uuid "3756939d-fe57-4472-b9d5-eb219ccc14a8")
@@ -11027,8 +11027,8 @@
 		(layer "Edge.Cuts")
 		(uuid "fcc31a73-2de6-49a9-9cb7-392df802947e")
 	)
-	(gr_text "Pico2-AD9226-PCM1802 PCB\n         by Sev5000"
-		(at 135.89 111.76 90)
+	(gr_text "Pico2 AD9226 PCM1802 Adapter\n\n         by Sev5000"
+		(at 137.668 112.141 90)
 		(layer "F.SilkS")
 		(uuid "f9d054f1-c311-49ca-adbf-cdb301af17d2")
 		(effects
