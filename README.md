@@ -21,9 +21,11 @@ Bill of material:
 - 1x PCM1802: https://aliexpress.com/item/1005006412873984.html
 - 2x RCA-105 or RCA-106: https://aliexpress.com/item/1005006152724809.html
 - 1x PJ-324M 5P: https://aliexpress.com/item/1005006146950431.html
-- 1x 3pin 2.54mm pin header vertical or horizontal for the headswitch/overflow selection jumper
+- 1x 3pin 2.54mm pin header horizontal for the headswitch/overflow selection jumper
 - 1x 9pin 2.54mm pin-socket header 
 - 1x 2x10pin 2.54mm pin-socket header
+- 1x 3pin 2.54mm pin header (remove the center pin for connecting R/L of the PCM1802)
+- 1x 3pin 2.54mm pin-socket header (remove the center pin for connecting R/L of the PCM1802)
 
 No SMD variant:
 - 1x DVI-Sock: https://github.com/Wren6991/Pico-DVI-Sock for a flush fit with the pcb edge, otherwise the adafruit DVI sock works fine too
