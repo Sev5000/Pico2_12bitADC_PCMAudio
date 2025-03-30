@@ -44,7 +44,8 @@ For head switch input:
 - 1x edge SMA/SMB or horizontal SMA/SMB and/or 2pin header
 
 Notes:
-The PCM1802 board needs MODE0 and MODE1 bridged *and* connected to 3.3V with a wire (Those boards have a design error):
+The PCM1802 board needs MODE0 (MODE1 only with previous HSDAOH releases) bridged *and* connected to 3.3V with a wire (Those boards have a design error):
+NOTE: Picture shows the configuration for the older firmware, now only MODE0 needs to be bridged and connected to 3.3V
 
 <img src="https://raw.githubusercontent.com/Sev5000/Pico2_12bitADC_PCMAudio/refs/heads/main/PCM1802Mod.webp" alt="">
 
